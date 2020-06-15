@@ -1,0 +1,62 @@
+#contenedorColumnas {
+}
+
+#datosYfoto {
+    display: flex;
+}
+
+.panelA {
+    width: 25%;
+    background-color: #7C7B79;
+}
+.panelB {
+width: 75%;
+/* background-color: #EEEEEE; */
+}
+
+.fotoPanelIzq {
+padding: 40px;
+}
+
+.datosPrincipales {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.ladoA {
+    width: 50%;
+    padding: 20px;
+    color: #7C7B79;
+    font-size: 50px;
+}
+
+.ladoB {
+    width: 50%;
+    padding: 10px;
+    color: #7C7B79;
+    font-size: 20px;
+}
+
+#experienciaLaboral {
+    display: flex;
+}
+
+
+/*
+*
+*/
+
+.centrarVertcal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ladoAExperienciaLaboral {
+
+}
+
+.ladoBExperienciaLaboral {
+    
+}
